@@ -24,7 +24,7 @@ img {
 
 h2, p {
   margin: 0; /* Remove default margin */
-  color: #101927;
+  color: #ffffff;
 }
 .box{
   color: #ffffff;
@@ -37,6 +37,7 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  color: #ffffff;
 }
 
 body {
@@ -48,11 +49,12 @@ li{
   list-style-type: none;
   position: relative;
   padding-right: 50px;
+  color: #ffffff;
 }
 .hover-underline-animation {
   display: inline-block;
   position: relative;
-  color:#101927;
+  color:#ffffff;
 }
 
 .hover-underline-animation:after {
@@ -77,7 +79,7 @@ li{
   color: #ffffff  ;
 }
 #link{
-  color: #0B2447;
+  color: #ffffff;
 }
 .h1pos{
   margin-right:40px;
@@ -90,7 +92,7 @@ li{
   justify-content: space-evenly;
   color: rgb(255, 255, 255);
   margin-right: 200px;
-  margin-left: 600px;
+  margin-left: 100px;
   font-size: 24px;
   font-weight: 400;
 
